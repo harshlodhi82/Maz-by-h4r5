@@ -1,2 +1,4 @@
 # Maz-by-h4r5
-Maze game
+This is the Maze game that create it's level autometically using Backtracking algorithems.
+Player can pla and win the game.
+
